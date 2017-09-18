@@ -1,0 +1,34 @@
+Pre class Reading Materials
+============================
+
+1. Overview of Analytics - http://blog.prediction.io/machine-learning/#.UwlMavmSzQs
+
+2. Descriptive Statistics 
+ 	
+	Sample & population - http://optimierung.mathematik.uni-kl.de/mamaeusch/veroeffentlichungen/ver_texte/sampling_en.pdf
+	
+	Overview of statistics - http://www2.webster.edu/~woolflm/statwhatis.html
+
+3. Inferential Statistics
+
+	Probability Distributions - http://www.math.dartmouth.edu/~prob/prob/prob.pdf
+
+	Negative Binomial Distibution - http://stattrek.com/probability-distributions/negative-binomial.aspx
+
+
+4. Time Series
+
+	Introduction to Time series - http://www.itl.nist.gov/div898/handbook/pmc/section4/pmc4.htm
+
+	Time Series quick fix in R - http://www.stat.pitt.edu/stoffer/tsa3/R_toot.htm
+	
+	Time series & Forecasting in R - http://www.statmethods.net/advstats/timeseries.html
+
+
+5. Anand's Notes 
+
+	https://github.com/anandology/python-datascience
+	
+	http://anandology.com/nb/2016/cognizant/notes/
+
+	http://anandology.com/nb/2016/cognizant/
